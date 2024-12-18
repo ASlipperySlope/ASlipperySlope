@@ -14,4 +14,23 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 
 ---
 
-I am 
+I have four years of experience configuring plugins in a Minecraft: Java Edition environment, primarily running on Paper. Having my hands on several premium plugins, I also know my way around plenty of high quality free to use plugins. Some of the plugins listed below are the ones I use all the time:
+- 💲 ExecutableItems
+- 💲 ExecutableEvents
+- 💲 ExecutableBlocks
+- SCore
+- DeluxeMenus
+- PlaceholderAPI
+- CustomCommands
+- 💲 ForceResourcepacks
+- 💲 CMI
+- TAB
+- ChatFilter
+- Citizens
+- CraftingStore
+- 💲 CrateReloaded
+- 💲 RewardsLite
+- LuckPerms
+- Multiverse
+- FastAsyncWorldEdit
+- WorldGuard

@@ -11,3 +11,7 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 - [Wiki](https://wiki.hyrulegaminggroup.com)
 - [Dynmap](http://mc.hyrulegaminggroup.com:8123/)
 - [FindMCServer](https://findmcserver.com/server/hyrulegg)
+
+---
+
+I am 

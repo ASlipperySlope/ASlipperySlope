@@ -14,7 +14,8 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 
 ---
 
-I have four years of experience configuring plugins in a Minecraft: Java Edition environment, primarily running on Paper. Having my hands on several premium plugins, I also know my way around plenty of high quality free to use plugins. Some of the plugins listed below are the ones I use all the time:
+I have four years of experience configuring plugins and creating resource packs in a Minecraft: Java Edition environment, primarily running on Paper.
+# Plugins
 - 💲 ExecutableItems
 - 💲 ExecutableEvents
 - 💲 ExecutableBlocks
@@ -34,3 +35,11 @@ I have four years of experience configuring plugins in a Minecraft: Java Edition
 - Multiverse
 - FastAsyncWorldEdit
 - WorldGuard
+
+# Resource Packs
+- Custom Item Textures
+- Custom Font Textures
+- Custom GUI's
+- Custom Models (BlockBench)
+- Custom Language Files (I don't translate!)
+- Custom Sounds

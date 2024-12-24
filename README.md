@@ -16,7 +16,7 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 
 I have four years of experience configuring plugins and creating resource packs in a Minecraft: Java Edition environment, primarily running on Paper.
 # Plugin Experience
-- 💲 ExecutableItems ([Wiki Page](https://hyrulegaminggroup.com/wiki/index.php?title=Category:Item), [Random Item Showcase](https://www.youtube.com/watch?v=OD0Q4KOAu40))
+- 💲 ExecutableItems ([Wiki Page](https://hyrulegaminggroup.com/wiki/index.php?title=Category:Item), [Random Item Showcase](https://www.youtube.com/watch?v=OD0Q4KOAu40), [Item Grading System](https://www.youtube.com/watch?v=H91KGXgeSu0))
 - 💲 ExecutableEvents ([CraftWare](https://www.youtube.com/watch?v=Fe2Zl9oGL90))
 - 💲 ExecutableBlocks
 - SCore

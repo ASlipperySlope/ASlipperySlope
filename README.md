@@ -29,8 +29,8 @@ I have four years of experience configuring plugins and creating resource packs 
 - ChatFilter ([Brainrot Filter](https://i.imgur.com/A19hE0H.png))
 - Citizens
 - CraftingStore
-- 💲 CrateReloaded
-- 💲 RewardsLite
+- 💲 CrateReloaded ([Loyalty Crate Preview](https://www.youtube.com/watch?v=xkBmQAwhMEs))
+- 💲 RewardsLite ([Loyalty Points Reward](https://i.imgur.com/R405IU0.png))
 - LuckPerms
 - Multiverse
 - FastAsyncWorldEdit

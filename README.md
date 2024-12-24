@@ -15,12 +15,12 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 ---
 
 I have four years of experience configuring plugins and creating resource packs in a Minecraft: Java Edition environment, primarily running on Paper.
-# Plugins
-- 💲 ExecutableItems
-- 💲 ExecutableEvents
+# Plugin Experience
+- 💲 [ExecutableItems](https://hyrulegaminggroup.com/wiki/index.php?title=Category:Item)
+- 💲 [ExecutableEvents](https://www.youtube.com/watch?v=Fe2Zl9oGL90)
 - 💲 ExecutableBlocks
 - SCore
-- DeluxeMenus
+- DeluxeMenus ([Player Customization](https://www.youtube.com/watch?v=E5kn_HV261o), [Festive Quests](https://www.youtube.com/watch?v=fh0WtyDwq2M))
 - PlaceholderAPI
 - CustomCommands
 - 💲 ForceResourcepacks
@@ -36,7 +36,8 @@ I have four years of experience configuring plugins and creating resource packs 
 - FastAsyncWorldEdit
 - WorldGuard
 
-# Resource Packs
+# Resource Pack Experience
+- [The HyruleGG SMP Resource Pack](https://github.com/ASlipperySlope/hggsmp/blob/main/HGG-Pack-Survival.zip)
 - Custom Item Textures
 - Custom Font Textures
 - Custom GUI's

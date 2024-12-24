@@ -25,8 +25,8 @@ I have four years of experience configuring plugins and creating resource packs 
 - CustomCommands
 - 💲 ForceResourcepacks
 - 💲 CMI
-- TAB
-- ChatFilter
+- TAB ([Survival Scoreboard](https://imgur.com/a/OYS6PZq), [Tab List](https://i.imgur.com/cE9V6cS.png))
+- ChatFilter ([Brainrot Filter](https://i.imgur.com/A19hE0H.png))
 - Citizens
 - CraftingStore
 - 💲 CrateReloaded

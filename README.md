@@ -15,6 +15,7 @@ We are listed on the Official Minecraft Server List, and we are an official Mine
 ---
 
 I have four years of experience configuring plugins and creating resource packs in a Minecraft: Java Edition environment, primarily running on Paper.
+
 💲 = Premium plugin
 
 # Plugin Experience

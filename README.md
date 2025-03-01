@@ -1,49 +1,13 @@
-I'm Slope, owner of the HyruleGamingGroup SMP. In my free time, I manage and maintain this server, as well as play fantastic videogames such as Minecraft, The Legend of Zelda and more. I'm not a social media user, so all links provided below have to do with the Minecraft server only.
+I'm Slope, owner of Slippy Studios and the HyruleGamingGroup SMP. I manage and maintain this server, as well as play fantastic videogames such as Minecraft, The Legend of Zelda and more.
 
-The server supports both Java and Bedrock edition, and provides a variety of gamemodes such as Survival, Creative, PvP, Rotating Worlds, CraftWare and soon many more.
+The Minecraft server supports both Java and Bedrock edition, and provides a variety of gamemodes such as Survival, Creative, PvP, Rotating Worlds, CraftWare and many more.
 
-
-We are listed on the Official Minecraft Server List, and we are an official Minehut Partner.
+Slippy Studios is an all-new community featuring gaming servers, Flash animations and more.
+The HyruleGamingGroup SMP is listed on the Official Minecraft Server List, and is an official Minehut Partner.
 
 # Links  
-- [Website](https://www.hyrulegaminggroup.com)
-- [Discord](https://discord.gg/bNXbZ4XfBD)
-- [Wiki](https://wiki.hyrulegaminggroup.com)
-- [Dynmap](http://mc.hyrulegaminggroup.com:8123/)
-- [FindMCServer](https://findmcserver.com/server/hyrulegg)
-
----
-
-I have four years of experience configuring plugins and creating resource packs in a Minecraft: Java Edition environment, primarily running on Paper.
-
-💲 = Premium plugin
-
-# Plugin Experience
-- 💲 ExecutableItems ([Wiki Page](https://hyrulegaminggroup.com/wiki/index.php?title=Category:Item), [Random Item Showcase](https://www.youtube.com/watch?v=OD0Q4KOAu40), [Item Grading System](https://www.youtube.com/watch?v=H91KGXgeSu0))
-- 💲 ExecutableEvents ([CraftWare](https://www.youtube.com/watch?v=Fe2Zl9oGL90))
-- 💲 ExecutableBlocks
-- SCore
-- DeluxeMenus ([Player Customization](https://www.youtube.com/watch?v=E5kn_HV261o), [Festive Quests](https://www.youtube.com/watch?v=fh0WtyDwq2M))
-- PlaceholderAPI
-- CustomCommands
-- 💲 ForceResourcepacks
-- 💲 CMI
-- TAB ([Survival Scoreboard](https://imgur.com/a/OYS6PZq), [Tab List](https://i.imgur.com/cE9V6cS.png))
-- ChatFilter ([Brainrot Filter](https://i.imgur.com/A19hE0H.png))
-- Citizens
-- CraftingStore
-- 💲 CrateReloaded ([Loyalty Crate Preview](https://www.youtube.com/watch?v=xkBmQAwhMEs))
-- 💲 RewardsLite ([Loyalty Points Reward](https://i.imgur.com/R405IU0.png))
-- LuckPerms
-- Multiverse
-- FastAsyncWorldEdit
-- WorldGuard
-
-# Resource Pack Experience
-- [The HyruleGG SMP Resource Pack](https://github.com/ASlipperySlope/hggsmp/blob/main/HGG-Pack-Survival.zip)
-- Custom Item Textures
-- Custom Font Textures
-- Custom GUI's
-- Custom Models (BlockBench)
-- Custom Language Files (I don't translate!)
-- Custom Sounds
+- [Website](https://slippystudios.com)
+- [Discord](https://discord.gg/KnfGTYbK3D)
+- [SMP Wiki](https://wiki.hyrulegaminggroup.com)
+- [SMP Dynmap](http://mc.hyrulegaminggroup.com:8123/)
+- [SMP FindMCServer Page](https://findmcserver.com/server/hyrulegg)

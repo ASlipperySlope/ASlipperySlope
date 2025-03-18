@@ -8,6 +8,3 @@ The HyruleGamingGroup SMP is listed on the Official Minecraft Server List, and i
 # Links  
 - [Website](https://slippystudios.com)
 - [Discord](https://discord.gg/KnfGTYbK3D)
-- [SMP Wiki](https://wiki.hyrulegaminggroup.com)
-- [SMP Dynmap](http://mc.hyrulegaminggroup.com:8123/)
-- [SMP FindMCServer Page](https://findmcserver.com/server/hyrulegg)

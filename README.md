@@ -1,6 +1,6 @@
-I'm Slope, owner of Slippy Studios. I play fantastic videogames such as Minecraft, The Legend of Zelda and more and create content around these games.
+I'm Slope, owner of Slippy Studios. Big fan of the Legend of Zelda series, Minecraft, Team Fortress 2 and more old-schooly games. The content I create is typically centered around these three games.
 
-Slippy Studios is an all-new community featuring gaming servers, Flash animations and more.
+Slippy Studios is an all-new community featuring gaming servers, game mods, graphics for content creators, animations and more.
 
 # Links  
 - [Website](https://slippystudios.com)
